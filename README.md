@@ -6,4 +6,4 @@ Click [Here](https://github.com/smahamoud/pokedex-react) to view the application
 
 ## Screenshots
 
-(./public/screenshots/Pokedex.png)
+![PokeDex](./public/Pokedex.png)
